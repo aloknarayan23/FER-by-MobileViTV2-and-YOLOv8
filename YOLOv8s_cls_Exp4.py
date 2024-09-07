@@ -3,7 +3,7 @@
 
 
 
-## Step 2: Importing librabries
+## Step 2: Importing libraries
 from PIL import Image
 import time
 import numpy as np
