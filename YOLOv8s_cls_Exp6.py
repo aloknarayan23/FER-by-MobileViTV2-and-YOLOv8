@@ -4,7 +4,7 @@
 !pip install torchinfo
 
 
-## Step 2: Importing librabries
+## Step 2: Importing libraries
 import numpy as np
 from torchinfo import summary
 import torch
