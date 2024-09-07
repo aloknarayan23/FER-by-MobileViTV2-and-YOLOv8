@@ -7,7 +7,7 @@
 
 
 
-## Step 2: Importing librabries
+## Step 2: Importing libraries
 import accelerate
 import os
 from datasets import Dataset, DatasetDict, Features, ClassLabel, Image
